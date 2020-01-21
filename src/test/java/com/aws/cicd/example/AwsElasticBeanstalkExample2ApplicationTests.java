@@ -1,4 +1,4 @@
-package com.techprimers.aws;
+package com.aws.cicd.example;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
