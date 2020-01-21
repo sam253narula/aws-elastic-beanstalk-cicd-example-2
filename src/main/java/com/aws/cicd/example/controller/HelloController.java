@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello AWS CICD";
+        return "Hello AWS codepipeline test CICD";
     }
 }
